@@ -46,7 +46,7 @@ Output
 **Language:** c_cpp  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-07T06:18:48.005Z  
+**Submitted:** 2026-10-07T06:18:59.649Z  
 
 ```c_cpp
 // Solution as follows

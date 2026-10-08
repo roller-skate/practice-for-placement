@@ -41,9 +41,9 @@ Output: [[2,2,2,2]]
 ## Solution
 
 **Language:** JavaScript  
-**Runtime:** 0 ms  
-**Memory:** 52.7 MB  
-**Submitted:** 2026-10-08T17:41:12.444Z  
+**Runtime:** 21 ms (beats 25.81%)  
+**Memory:** 58.6 MB (beats 39.83%)  
+**Submitted:** 2026-10-08T17:41:17.066Z  
 
 ```js
 /**

@@ -64,9 +64,9 @@ Output: "A"
 ## Solution
 
 **Language:** Java  
-**Runtime:** 7 ms (beats 21.35%)  
-**Memory:** 46.6 MB (beats 61.68%)  
-**Submitted:** 2026-10-18T17:54:33.560Z  
+**Runtime:** 7 ms (beats 21.84%)  
+**Memory:** 46.1 MB (beats 93.94%)  
+**Submitted:** 2026-10-21T09:12:04.729Z  
 
 ```java
 class Solution {

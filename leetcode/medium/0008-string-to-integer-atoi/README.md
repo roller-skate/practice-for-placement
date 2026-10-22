@@ -112,9 +112,9 @@ Reading stops at the first non-digit character 'w'.
 ## Solution
 
 **Language:** Java  
-**Runtime:** 2 ms (beats 13.87%)  
-**Memory:** 42.8 MB (beats 99.86%)  
-**Submitted:** 2026-10-21T09:12:59.679Z  
+**Runtime:** 2 ms (beats 14.81%)  
+**Memory:** 43.3 MB (beats 93.50%)  
+**Submitted:** 2026-10-22T06:00:49.077Z  
 
 ```java
 class Solution {

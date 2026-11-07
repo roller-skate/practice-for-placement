@@ -51,8 +51,8 @@ Given the `root` of a binary tree, return  *the inorder traversal of its nodes' 
 
 **Language:** Java  
 **Runtime:** 0 ms (beats 100.00%)  
-**Memory:** 42.8 MB (beats 71.27%)  
-**Submitted:** 2026-11-06T17:39:31.475Z  
+**Memory:** 42.5 MB (beats 90.59%)  
+**Submitted:** 2026-11-07T17:52:37.631Z  
 
 ```java
 class Solution {

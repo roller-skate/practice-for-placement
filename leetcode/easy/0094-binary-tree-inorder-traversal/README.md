@@ -51,26 +51,28 @@ Given the `root` of a binary tree, return  *the inorder traversal of its nodes' 
 
 **Language:** Java  
 **Runtime:** 0 ms (beats 100.00%)  
-**Memory:** 42.6 MB (beats 89.85%)  
-**Submitted:** 2026-11-09T16:59:49.058Z  
+**Memory:** 42.4 MB (beats 93.73%)  
+**Submitted:** 2026-11-13T16:06:56.130Z  
 
 ```java
 class Solution {
-    private List<Integer> res = new ArrayList<>();
     public List<Integer> inorderTraversal(TreeNode root) {
-        traverse(root);
-        return res;
+        List<Integer> res = new ArrayList<>();
+
+        inorder(root, res);
+        return res;        
     }
-    
-    private void traverse(TreeNode root) {
-        if (root == null) {
+
+    private void inorder(TreeNode node, List<Integer> res) {
+        if (node == null) {
             return;
         }
-        traverse(root.left);
-        res.add(root.val);
-        traverse(root.right);
-    }
+        inorder(node.left, res);
+        res.add(node.val);
+        inorder(node.right, res);
+    }    
 }
+
 ```
 
 ---

@@ -48,8 +48,8 @@ Output: 1
 
 **Language:** Java  
 **Runtime:** 0 ms (beats 100.00%)  
-**Memory:** 49 MB (beats 74.53%)  
-**Submitted:** 2026-11-17T09:18:31.108Z  
+**Memory:** 48.9 MB (beats 73.03%)  
+**Submitted:** 2026-11-19T03:59:25.382Z  
 
 ```java
 /**
@@ -62,8 +62,8 @@ Output: 1
  *     TreeNode(int val) { this.val = val; }
  *     TreeNode(int val, TreeNode left, TreeNode right) {
  *         this.val = val;
- *         this.left = left;
- *         this.right = right;
+ *         this.left;
+ *         this.right;
  *     }
  * }
  */
